@@ -1,4 +1,4 @@
-This directory should contains the file(s) :
+This directory should contain the file(s) :
 ```
  - 2015-building-energy-benchmarking.csv
  - 2016-building-energy-benchmarking.csv
